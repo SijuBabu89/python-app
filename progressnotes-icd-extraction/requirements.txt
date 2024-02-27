@@ -1,0 +1,13 @@
+langchain~=0.1.5
+pinecone-client
+openai
+pypdf
+langchain_openai
+sentence-transformers
+langchain-community
+flask~=3.0.2
+streamlit~=1.31.0
+pillow~=10.2.0
+pypdf2~=3.0.1
+requests~=2.31.0
+PyMuPDF
